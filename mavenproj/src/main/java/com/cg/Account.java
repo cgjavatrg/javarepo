@@ -3,7 +3,7 @@ package com.cg;
 import java.util.Objects;
 
 public class Account {
-	
+	// bean class
 	private int aid;
 	private String holder;
 	private double balance;
